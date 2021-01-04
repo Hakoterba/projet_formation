@@ -5,11 +5,6 @@
 
 
 
-
-
-
-
-
 <?php   
     include('footer.php')
 ?>
